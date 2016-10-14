@@ -11,5 +11,6 @@ int main()
     sum=a+b;
     cout << sum << endl;
     cout << a-b << endl;
+    cout << a*b << endl;
     return 0;
 }
