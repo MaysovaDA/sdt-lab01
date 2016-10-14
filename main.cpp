@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//ychebnaj prog
 int main()
 {
     int a,b,sum;
