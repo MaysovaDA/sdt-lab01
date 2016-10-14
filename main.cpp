@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+//ychebnaj prog
 int main()
 {
     int a,b,sum;
@@ -11,5 +11,6 @@ int main()
     sum=a+b;
     cout << sum << endl;
     cout << a-b << endl;
+    cout << a/b << endl;
     return 0;
 }
